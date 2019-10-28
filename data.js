@@ -2180,6 +2180,14 @@ const emojiItems = [
     year: 1996
   },
   {
+    title: "Secret Life of Pets",
+    emojiImgs: "🐶😸🐱‍🐰",
+    genres: ["comedy", "animation"],
+    itemLink: "https://www.imdb.com/title/tt2709768/",
+    type: "movie",
+    year: 2016
+  },
+  {
     title: "See No Evil, Hear No Evil",
     emojiImgs: "🙈👹🙉👹",
     genres: ["comedy", "crime"],
